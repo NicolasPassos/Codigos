@@ -1,8 +1,0 @@
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\obj\Debug\13 - ForEncadeado.csproj.AssemblyReference.cache
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\obj\Debug\13 - ForEncadeado.csproj.SuggestedBindingRedirects.cache
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\obj\Debug\13 - ForEncadeado.csproj.CoreCompileInputs.cache
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\bin\Debug\13 - ForEncadeado.exe.config
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\bin\Debug\13 - ForEncadeado.exe
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\bin\Debug\13 - ForEncadeado.pdb
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\obj\Debug\13 - ForEncadeado.exe
-C:\Users\nicolas.passos\Documents\Códigos\13 - ForEncadeado\obj\Debug\13 - ForEncadeado.pdb
