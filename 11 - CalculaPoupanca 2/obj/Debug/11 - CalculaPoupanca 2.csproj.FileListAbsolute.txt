@@ -1,0 +1,7 @@
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\bin\Debug\11 - CalculaPoupanca 2.exe.config
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\bin\Debug\11 - CalculaPoupanca 2.exe
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\bin\Debug\11 - CalculaPoupanca 2.pdb
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\obj\Debug\11 - CalculaPoupanca 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\obj\Debug\11 - CalculaPoupanca 2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\obj\Debug\11 - CalculaPoupanca 2.exe
+C:\Users\nicolas.passos\Documents\Códigos\11 - CalculaPoupanca 2\obj\Debug\11 - CalculaPoupanca 2.pdb
