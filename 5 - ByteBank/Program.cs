@@ -13,9 +13,8 @@ namespace _5___ByteBank
             Cliente nicolas = new Cliente();
 
             nicolas.nome = "Nicolas Duarte Dos Passos";
-            nicolas.cpf = "02618720105";
             nicolas.profissao = "Assistente de projetos";
-
+            
             ContaCorrente contaDoNicolas = new ContaCorrente();
 
             contaDoNicolas.titular = nicolas;
